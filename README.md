@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Arthur%20Campos&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%7C%20Cybersecurity%20%26%20AI&descAlignY=62&descAlign=50" alt="Arthur Campos Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Arthur%20Campos&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%7C%20Cybersecurity%20and%20AI&descAlignY=62&descAlign=50" alt="Arthur Campos Banner" />
 </div>
 
 <br>
@@ -42,7 +42,7 @@
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/Hardware_%26_Manutenção-00599C?style=for-the-badge&logo=intel&logoColor=white" alt="Hardware" />
+  <img src="https://img.shields.io/badge/Hardware_e_Manutenção-00599C?style=for-the-badge&logo=intel&logoColor=white" alt="Hardware" />
   <img src="https://img.shields.io/badge/Suporte_Técnico_TI-008080?style=for-the-badge&logo=spdx&logoColor=white" alt="Suporte" />
   <img src="https://img.shields.io/badge/Pacote_Office_Pro-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office" />
 </div>
