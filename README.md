@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Arthur%20Moura%20Campos&fontSize=30&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%7C%20Cybersecurity%20%26%20AI&descAlignY=60&descAlign=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Arthur%20Moura%20Campos&fontSize=32&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%7C%20Cybersecurity%20%26%20AI&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <br>
@@ -19,8 +19,9 @@
 
 [root@mainframe ~]# cat workstation_specs.sys
 ▸ OS Environments: Linux (Learning/Configuring) | Windows 11 Pro
+▸ Languages & Core: JavaScript, Python, Java, HTML5, CSS3, SQL
 ▸ IDEs & Editors: VS Code, IntelliJ IDEA
-▸ Hardware & Maintenance: PC Assembly, Diagnostics, Hardware Maintenance
+▸ Hardware & Maintenance: PC Assembly, Technical Support, Hardware Maintenance
 ▸ Productivity: MS Office Suite (Excel, Word, PowerPoint)
 
 [root@mainframe ~]# cat strategic_roadmap.txt
@@ -33,54 +34,35 @@
 
 <div align="center">
   <h3>⚡ CORE_CAPABILITIES & TECH_STACK</h3>
-  <p><i>Ferramentas, linguagens e tecnologias ativas no ambiente de execução:</i></p>
+  <p><i>Todas as tecnologias, linguagens e ferramentas em alinhamento simétrico:</i></p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,java,html,css,mysql,linux,windows,vscode,idea&theme=dark&perline=10" alt="Tech Stack Icons" />
+  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Hardware_%26_Manutenção-00599C?style=for-the-badge&logo=intel&logoColor=white" alt="Hardware" />
+  <img src="https://img.shields.io/badge/Suporte_Técnico_TI-008080?style=for-the-badge&logo=spdx&logoColor=white" alt="Suporte" />
+  <img src="https://img.shields.io/badge/Pacote_Office_Pro-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office" />
 </div>
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📌 Languages & Web Development</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,python,java,html,css,mysql&theme=dark&perline=6" alt="Languages"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Systems, OS & IDEs</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea&theme=dark&perline=6" alt="Tools"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <h4>🔧 Hardware & Technical Support Matrix</h4>
-  <img src="https://img.shields.io/badge/Hardware%20Diagnostics-00599C?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manutenção%20de%20Computadores-008080?style=for-the-badge&logo=spdx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suporte%20Técnico%20TI-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pacote%20Office%20Pro-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-</div>
-
-<br>
-
-### 🎓 `> ./academic_and_specialization.log`
+### 🎓 `> ./academic_roadmap.log`
 
 | Módulo / Instituição | Foco de Estudo | Status |
 | :--- | :--- | :---: |
-| **Ciência da Computação — CEUB** | Algoritmos, Estrutura de Dados, Engenharia de Software | `[ 2º Semestre - Em Andamento ]` |
-| **Desenvolvimento Full Stack** | JavaScript, Java, HTML5, CSS3, Bancos de Dados SQL | `[ Em Evolução Continuous ]` |
+| **Ciência da Computação — CEUB** | Algoritmos, Estrutura de Dados, Engenharia de Software | `[ 2º Semestre ]` |
+| **Desenvolvimento Full Stack** | JavaScript, Java, HTML5, CSS3, Bancos de Dados SQL | `[ Em Evolução ]` |
 | **Sistemas Operacionais & Redes** | Comandos Linux, Arquitetura de Redes, Suporte Técnico | `[ Módulo Ativo ]` |
-| **Cybersecurity & IA (Futuro)** | Defensa Cibernética, Segurança da Informação, Machine Learning | `[ Planejado ]` |
+| **Cybersecurity & IA (Futuro)** | Defesa Cibernética, Segurança da Informação, Machine Learning | `[ Planejado ]` |
 
 <br>
 
 <div align="center">
   <h3>📁 DIRECTORY: /PROJECT_LABS</h3>
-  <p><i>Aplicações e repositórios em estágio de desenvolvimento e arquitetura:</i></p>
+  <p><i>Módulos e repositórios em estágio de desenvolvimento e arquitetura:</i></p>
 </div>
 
 <table bordercolor="#30363d" width="100%">
@@ -88,13 +70,13 @@
     <td width="50%" align="left" valign="top">
       <b>🔒 PROJECT_01: CORE_FULLSTACK_APP</b><br><br>
       <i>[Status: Em Desenvolvimento]</i><br><br>
-      Aplicação Web focada no ecossistema Full Stack, integrando interface responsiva com manipulação de dados e regras de negócio em JavaScript/Java.<br><br>
+      Aplicação Web focada no ecossistema Full Stack, integrando interface responsiva com manipulação de dados em JavaScript/Java.<br><br>
       <img src="https://img.shields.io/badge/Stack-JS%20%7C%20HTML%20%7C%20CSS%20%7C%20SQL-000000?style=flat-square">
     </td>
     <td width="50%" align="left" valign="top">
       <b>🧠 PROJECT_02: CYBER_AUTOMATION_TOOLS</b><br><br>
       <i>[Status: Fase de Planejamento]</i><br><br>
-      Scripts e automações desenvolvidos em Python e Linux para análise de dados, automação de tarefas repetitivas e estudos iniciais de segurança.<br><br>
+      Scripts e automações desenvolvidos em Python e Linux para análise de dados, automação de tarefas e estudos de segurança.<br><br>
       <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Linux%20%7C%20Bash-000000?style=flat-square">
     </td>
   </tr>
@@ -108,10 +90,10 @@
   <summary><b>📂 Visualizar competências detalhadas em Suporte & Hardware</b></summary>
   <br>
   <ul>
-    <li><b>Montagem e Manutenção:</b> Diagnóstico de falhas de hardware, substituição de componentes, limpeza preventiva e otimização de desempenho.</li>
+    <li><b>Montagem e Manutenção:</b> Diagnóstico de falhas de hardware, substituição de componentes, limpeza preventiva e otimização.</li>
     <li><b>Sistemas Operacionais:</b> Formatação, instalação e configuração de ambientes Windows e distribuições Linux.</li>
-    <li><b>Atendimento e Suporte:</b> Resolução de problemas de software, configuração de periféricos e redes locais básicas.</li>
-    <li><b>Pacote Office:</b> Criação de planilhas organizadas, documentações técnicas e apresentações estruturadas.</li>
+    <li><b>Atendimento e Suporte:</b> Resolução de problemas de software, configuração de periféricos e redes locais.</li>
+    <li><b>Pacote Office:</b> Criação de planilhas organizadas, documentações técnicas e apresentações virtuais.</li>
   </ul>
 </details>
 
