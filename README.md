@@ -8,27 +8,30 @@
 
 <br>
 
-### 💻 `> ./system_overview.sh`
+### 👨‍💻 `about_me.py`
 
-<pre><code>[root@mainframe ~]# whoami
-▸ Name: Arthur Moura Campos
-▸ Age: 18 years
-▸ Location: Brasília (BSB), DF - Brazil 🇧🇷
-▸ Target Market: Global Remote / International Relocation
-▸ Current Status: Undergrad Student @ CEUB (2nd Semester)
+```python
+class ArthurMouraCampos:
+    def __init__(self):
+        self.name = "Arthur Moura Campos"
+        self.age = 18
+        self.location = "Brasília, DF - Brazil 🇧🇷"
+        self.education = "Computer Science @ CEUB (2nd Semester)"
+        
+        self.stack = {
+            "languages": ["JavaScript", "Python", "Java", "HTML5", "CSS3", "SQL"],
+            "tools_os": ["VS Code", "IntelliJ IDEA", "Linux", "Windows 11 Pro"],
+            "hardware": ["PC Assembly", "Technical Support", "Diagnostics"]
+        }
+        
+        self.goals = [
+            "Master Full Stack Development",
+            "Specialize in Cybersecurity Protocols & AI Tools",
+            "Build an International Career (Global Remote / Relocation) 🚀"
+        ]
 
-[root@mainframe ~]# cat workstation_specs.sys
-▸ OS Environments: Linux (Learning/Configuring) | Windows 11 Pro
-▸ Languages & Core: JavaScript, Python, Java, HTML5, CSS3, SQL
-▸ IDEs & Editors: VS Code, IntelliJ IDEA
-▸ Hardware & Maintenance: PC Assembly, Technical Support, Hardware Maintenance
-▸ Productivity: MS Office Suite (Excel, Word, PowerPoint)
-
-[root@mainframe ~]# cat strategic_roadmap.txt
-▸ Phase 1: Master Full Stack Development (JS, Java, Python, Web & DBs).
-▸ Phase 2: Specialize in Cybersecurity Protocols & Penetration Testing basics.
-▸ Phase 3: Integrate Artificial Intelligence algorithms and automated security tools.
-▸ Primary Objective: International career as a remote engineer -> Immigrate.</code></pre>
+arthur = ArthurMouraCampos()
+```
 
 <br>
 
