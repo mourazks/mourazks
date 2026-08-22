@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3E_SYSTEM_INITIALIZATION...;%3E_ACCESS_GRANTED.;%3E_WELCOME_TO_THE_MAINFRAME;%3E_USER:+ARTHUR_MOURA_CAMPOS;%3E_ROLE:+FULL_STACK_%7C_CYBERSECURITY_%7C_AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3E_SYSTEM_INITIALIZATION...;%3E_ACCESS_GRANTED.;%3E_WELCOME_TO_THE_MAINFRAME;%3E_USER:+ARTHUR_MOURA_CAMPOS;%3E_ROLE:+FULL_STACK_%7C_CYBERSECURITY_%7C_AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Arthur%20Moura%20Campos&fontSize=32&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%7C%20Cybersecurity%20%26%20AI&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Arthur%20Campos&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20%7C%20Cybersecurity%20%26%20AI&descAlignY=62&descAlign=50" alt="Arthur Campos Banner" />
 </div>
 
 <br>
